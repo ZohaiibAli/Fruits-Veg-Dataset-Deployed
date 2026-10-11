@@ -1,0 +1,6 @@
+streamlit>=1.57
+tensorflow-cpu==2.22.0rc0
+pillow
+numpy
+pandas
+plotly
